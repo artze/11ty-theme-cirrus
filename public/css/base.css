@@ -20,7 +20,8 @@ header {
   width: var(--content-width);
 }
 
-header > .header__title {
+header > span.header__title {
+  display: inline-block;
   font-size: var(--text-xl);
   font-weight: 400;
   line-height: 1.3;
