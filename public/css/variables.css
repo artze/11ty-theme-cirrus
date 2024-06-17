@@ -4,6 +4,9 @@
   --background-color: #fffffe;
   --color: rgb(41, 41, 41);
 
+  /* Layout */
+  --content-width: 48.75rem;
+
   /* Typography */
   --text-xs: 0.75rem;
   --text-sm: 0.875rem;
