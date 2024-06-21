@@ -12,11 +12,14 @@
   </header>
   <main>
     {{ content | safe }}
-    <ul>
-      {%- for post in collections.all -%}
-        <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-      {%- endfor -%}
-    </ul>
+    <h2>All Pages</h2>
+    <p>
+      <ul>
+        {%- for post in collections.all -%}
+          <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </p>
   </main>
 </body>
 </html>
