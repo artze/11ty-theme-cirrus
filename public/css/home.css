@@ -1,5 +1,7 @@
 h1.home__title {
-  font-size: var(--text-5xl);
+  font-family: "Volkhov";
+  font-size: var(--text-6xl);
+  font-weight: 400;
 }
 
 p.home__subtitle {
