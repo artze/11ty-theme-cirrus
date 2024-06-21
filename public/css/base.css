@@ -33,3 +33,8 @@ main {
   padding-right: 1rem;
   width: var(--content-width);
 }
+
+img {
+  max-width: 100%;
+  display: block;
+}
