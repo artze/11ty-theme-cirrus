@@ -48,25 +48,30 @@ p {
 
 * + h1,
 * + h2 {
+  /* 80px */
   margin-top: 5rem;
 }
 
 * + h3,
 * + h4,
 * + h5 {
+  /* 48px */
   margin-top: 3rem;
 }
 
 * + p {
+  /* 32px */
   margin-top: 2rem;
 }
 
 h2 + p,
 h3 + p,
 h4 + p {
+  /* 16px */
   margin-top: 1rem;
 }
 
 h1 + * {
+  /* 64px */
   margin-top: 4rem;
 }

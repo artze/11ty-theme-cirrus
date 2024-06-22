@@ -5,17 +5,39 @@
   --color: rgb(41, 41, 41);
 
   /* Layout */
+
+  /* 780px */
   --content-width: 48.75rem;
 
   /* Typography */
+
+  /* 12px */
   --text-xs: 0.75rem;
+
+  /* 14px */
   --text-sm: 0.875rem;
+
+  /* 16px */
   --text-base: 1rem;
+
+  /* 18px */
   --text-lg: 1.125rem;
+
+  /* 20px */
   --text-xl: 1.25rem;
+
+  /* 24px */
   --text-2xl: 1.5rem;
+
+  /* 30px */
   --text-3xl: 1.875rem;
+
+  /* 36px */
   --text-4xl: 2.25rem;
+
+  /* 48px */
   --text-5xl: 3rem;
+
+  /* 80px */
   --text-6xl: 5rem;
 }
