@@ -1,5 +1,5 @@
 html {
-  font-size: 16px;
+  font-size: 62.5%;
 }
 
 body {
@@ -49,29 +49,29 @@ p {
 * + h1,
 * + h2 {
   /* 80px */
-  margin-top: 5rem;
+  margin-top: 8rem;
 }
 
 * + h3,
 * + h4,
 * + h5 {
   /* 48px */
-  margin-top: 3rem;
+  margin-top: 4.8rem;
 }
 
 * + p {
   /* 32px */
-  margin-top: 2rem;
+  margin-top: 3.2rem;
 }
 
 h2 + p,
 h3 + p,
 h4 + p {
   /* 16px */
-  margin-top: 1rem;
+  margin-top: 1.6rem;
 }
 
 h1 + * {
   /* 64px */
-  margin-top: 4rem;
+  margin-top: 6.4rem;
 }

@@ -7,37 +7,37 @@
   /* Layout */
 
   /* 780px */
-  --content-width: 48.75rem;
+  --content-width: 78rem;
 
   /* Typography */
 
   /* 12px */
-  --text-xs: 0.75rem;
+  --text-xs: 1.2rem;
 
   /* 14px */
-  --text-sm: 0.875rem;
+  --text-sm: 1.4rem;
 
   /* 16px */
-  --text-base: 1rem;
+  --text-base: 1.6rem;
 
   /* 18px */
-  --text-lg: 1.125rem;
+  --text-lg: 1.8rem;
 
   /* 20px */
-  --text-xl: 1.25rem;
+  --text-xl: 2rem;
 
   /* 24px */
-  --text-2xl: 1.5rem;
+  --text-2xl: 2.4rem;
 
   /* 30px */
-  --text-3xl: 1.875rem;
+  --text-3xl: 3rem;
 
   /* 36px */
-  --text-4xl: 2.25rem;
+  --text-4xl: 3.6rem;
 
   /* 48px */
-  --text-5xl: 3rem;
+  --text-5xl: 4.8rem;
 
   /* 80px */
-  --text-6xl: 5rem;
+  --text-6xl: 8rem;
 }
