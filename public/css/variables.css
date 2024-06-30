@@ -42,11 +42,19 @@
   --text-6xl: 8rem;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 780px) {
   :root {
     /* Layout */
 
-    --content-width: 100%;
+    --content-width: 64rem;
+  }
+}
+
+@media (max-width: 640px) {
+  :root {
+    /* Layout */
+
+    --content-width: 42rem;
 
     /* Typography */
 
@@ -58,5 +66,13 @@
     --text-4xl: 3.4rem;
     --text-5xl: 4.5rem;
     --text-6xl: 7.5rem;
+  }
+}
+
+@media (max-width: 420px) {
+  :root {
+    /* Layout */
+
+    --content-width: 100%;
   }
 }
