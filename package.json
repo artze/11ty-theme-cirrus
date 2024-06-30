@@ -1,7 +1,7 @@
 {
-  "name": "11ty-exp",
+  "name": "11ty-cirrus",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal 11ty theme",
   "main": "index.js",
   "scripts": {
     "dev": "eleventy --serve",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "artze",
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1"
