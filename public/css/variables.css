@@ -41,3 +41,22 @@
   /* 80px */
   --text-6xl: 8rem;
 }
+
+@media (max-width: 420px) {
+  :root {
+    /* Layout */
+
+    --content-width: 100%;
+
+    /* Typography */
+
+    --text-base: 1.4rem;
+    --text-lg: 1.6rem;
+    --text-xl: 1.8rem;
+    --text-2xl: 2.2rem;
+    --text-3xl: 2.8rem;
+    --text-4xl: 3.4rem;
+    --text-5xl: 4.5rem;
+    --text-6xl: 7.5rem;
+  }
+}

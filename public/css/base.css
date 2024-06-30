@@ -44,3 +44,15 @@ img {
   max-width: 100%;
   display: block;
 }
+
+@media (max-width: 420px) {
+  header {
+    margin-bottom: 5.6rem;
+    margin-top: 0;
+    padding: 2.1rem 1.4rem 2.1rem 1.4rem;
+  }
+
+  main {
+    padding-bottom: 5.6rem;
+  }
+}
