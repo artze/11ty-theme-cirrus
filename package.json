@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "artze",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }
 }
