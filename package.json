@@ -4,8 +4,9 @@
   "description": "A minimal 11ty theme",
   "main": "index.js",
   "scripts": {
-    "dev": "eleventy --serve",
+    "build": "eleventy",
     "clean": "rm -r _site/",
+    "dev": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
