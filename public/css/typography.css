@@ -5,7 +5,7 @@ html {
 body {
   font-size: var(--text-lg);
   line-height: 1.54;
-  color: var(--color);
+  color: var(--text-color);
   text-rendering: optimizeLegibility;
   font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
   font-variant-ligatures: contextual;
