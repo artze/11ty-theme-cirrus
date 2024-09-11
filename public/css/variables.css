@@ -1,53 +1,29 @@
 :root {
   /* Colors */
-
   --accent-color: #0074d9;
   --background-color: #fffffe;
   --text-color: rgb(41, 41, 41);
   --text-color-muted: rgb(117, 117, 117);
 
   /* Layout */
-
-  /* 780px */
   --content-width: 78rem;
 
   /* Typography */
-
-  /* 12px */
-  --text-xs: 1.2rem; /* 1.17 */
-
-  /* 14px */
-  --text-sm: 1.4rem; /* 1.14 */
-
-  /* 16px */
-  --text-base: 1.6rem; /* 1.125 */
-
-  /* 18px */
-  --text-lg: 1.8rem; /* 1.11  */
-
-  /* 20px */
-  --text-xl: 2rem; /* 1.2 */
-
-  /* 24px */
-  --text-2xl: 2.4rem; /* 1.25 */
-
-  /* 30px */
-  --text-3xl: 3rem; /* 1.2 */
-
-  /* 36px */
-  --text-4xl: 3.6rem; /* 1.33 */
-
-  /* 48px */
-  --text-5xl: 4.8rem; /* 1.67 */
-
-  /* 80px */
+  --text-xs: 1.2rem;
+  --text-sm: 1.4rem;
+  --text-base: 1.6rem;
+  --text-lg: 1.8rem;
+  --text-xl: 2rem;
+  --text-2xl: 2.4rem;
+  --text-3xl: 3rem;
+  --text-4xl: 3.6rem;
+  --text-5xl: 4.8rem;
   --text-6xl: 8rem;
 }
 
 @media (max-width: 780px) {
   :root {
     /* Layout */
-
     --content-width: 64rem;
   }
 }
@@ -55,11 +31,9 @@
 @media (max-width: 640px) {
   :root {
     /* Layout */
-
     --content-width: 42rem;
 
     /* Typography */
-
     --text-base: 1.4rem;
     --text-lg: 1.6rem;
     --text-xl: 1.8rem;
@@ -74,7 +48,6 @@
 @media (max-width: 420px) {
   :root {
     /* Layout */
-
     --content-width: 100%;
   }
 }

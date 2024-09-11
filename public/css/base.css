@@ -15,11 +15,8 @@ header {
   border-bottom: 1px solid rgba(230, 230, 230, 1);
   display: flex;
   justify-content: space-between;
-  /* 64px */
   margin-bottom: 6.4rem;
-  /* 16px */
   margin-top: 1.6rem;
-  /* 32px 16px 32px 16px */
   padding: 3.2rem 1.6rem 3.2rem 1.6rem;
   text-transform: uppercase;
   width: var(--content-width);
@@ -56,11 +53,8 @@ nav > a:first-child {
 }
 
 main {
-  /* 64px */
   padding-bottom: 6.4rem;
-  /* 16px */
   padding-left: 1.6rem;
-  /* 16px */
   padding-right: 1.6rem;
   width: var(--content-width);
 }
